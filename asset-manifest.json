@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlohaNotCorona/static/css/main.4267b438.chunk.css",
+    "main.js": "/AlohaNotCorona/static/js/main.5413b109.chunk.js",
+    "main.js.map": "/AlohaNotCorona/static/js/main.5413b109.chunk.js.map",
+    "runtime-main.js": "/AlohaNotCorona/static/js/runtime-main.e7528075.js",
+    "runtime-main.js.map": "/AlohaNotCorona/static/js/runtime-main.e7528075.js.map",
+    "static/js/2.dc41017d.chunk.js": "/AlohaNotCorona/static/js/2.dc41017d.chunk.js",
+    "static/js/2.dc41017d.chunk.js.map": "/AlohaNotCorona/static/js/2.dc41017d.chunk.js.map",
+    "index.html": "/AlohaNotCorona/index.html",
+    "precache-manifest.d93da98be72201d31c13d4e31b03e999.js": "/AlohaNotCorona/precache-manifest.d93da98be72201d31c13d4e31b03e999.js",
+    "service-worker.js": "/AlohaNotCorona/service-worker.js",
+    "static/css/main.4267b438.chunk.css.map": "/AlohaNotCorona/static/css/main.4267b438.chunk.css.map",
+    "static/js/2.dc41017d.chunk.js.LICENSE.txt": "/AlohaNotCorona/static/js/2.dc41017d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7528075.js",
+    "static/js/2.dc41017d.chunk.js",
+    "static/css/main.4267b438.chunk.css",
+    "static/js/main.5413b109.chunk.js"
+  ]
+}
